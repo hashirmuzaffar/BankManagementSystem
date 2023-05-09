@@ -1,0 +1,18 @@
+123123123  approved
+456456789  not approved
+999999999  approved
+001001001  not approved
+101000000  approved
+000111000  not approved
+000111000  approved
+000111000  approved
+234234234  approved
+000111000  approved
+345345345  approved
+345345345  approved
+987987987  approved
+345345345  approved
+987987987  approved
+345345345  approved
+100000001  approved
+987987987  approved

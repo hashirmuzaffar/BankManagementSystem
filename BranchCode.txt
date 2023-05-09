@@ -1,0 +1,11 @@
+1000		Karachi
+1001		Hyderabad
+1012		Faisalabad
+1023		Bhawalpur
+1034		Lahore
+1045		Islamabad
+1056		Peshawar
+1067		Quetta
+1078		Nawabshah
+1089		Sukkur
+1090		Multan

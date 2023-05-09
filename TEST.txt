@@ -1,0 +1,13 @@
+Are you a Pakistani National?_yes
+Are you an account holder in our bank?_yes
+Are you a FBR registered Filer?_yes
+Can you put up any collateral?_maybe
+Do you have any cirminal Record?_no
+Is your age between 23 and 60 years?_yes
+Do you have health insurance?_yes
+Is your minimum expiernce at empolyment less 3 years?_no
+Is your monthly income greater than 50,000 rupes\"-?_yes
+Can you provide a proof of steady?_yes
+Do you have any pervious debts?_no
+
+
